@@ -1,1 +1,3 @@
 testinnhold hdi htni htdi thdx
+
+her kommer en bugfiks.
